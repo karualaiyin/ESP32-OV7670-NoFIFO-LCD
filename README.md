@@ -1,5 +1,5 @@
-# ESP32-OV7670-Camera-LCD
-Real-time OV7670 image display on SPI LCD using ESP32 and ESP-IDF.
+# ESP32-OV7670-NoFIFO-LCD
+Real-time image display from the OV7670 (No FIFO) on an SPI LCD using ESP32 and ESP-IDF.
 
 ## Demo
 
